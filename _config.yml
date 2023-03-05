@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-title: Barbora in Tech
+title: Barbora.☁️
 
 # Your name to show in the footer
 author: Barbora Klusackova
@@ -22,9 +22,11 @@ author: Barbora Klusackova
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
+    - AWS: "https://aws.amazon.com/"
     - Learn markdown: "https://www.markdowntutorial.com/"
   Author's home: "https://deanattali.com"
+  Blabl:
+    - Foobar: "https://foo.bar.com"
 
 ################
 # --- Logo --- #
