@@ -50,7 +50,6 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "barboraklusackova@gmail.com"
-  rss: true  # remove this line if you don't want to show an RSS link at the bottom
   github: https://github.com/kbarushkaa
 #  medium: yourname
 #  reddit: yourname
@@ -79,7 +78,7 @@ rss-description: This website is a virtual proof that I'm awesome
 
 ###########################
 # --- General options --- #
-###########################
+########################### 
 
 # Select which social network share links to show in posts
 share-links-active:
@@ -90,7 +89,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
@@ -121,7 +120,7 @@ navbar-var-length: false
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#EAEAEA"
+navbar-col: "#ff1a8c"
 navbar-text-col: "#404040"
 navbar-border-col: "#DDDDDD"
 page-col: "#FFFFFF"
