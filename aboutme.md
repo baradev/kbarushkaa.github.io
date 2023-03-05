@@ -1,13 +1,13 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Why you'd want to hire me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Barbora Klusackova. I have the following qualities:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- I'm fast learner, ready to challenge myself
+- I'm extremely ready to help your company solve issues
 
 What else do you need?
 
