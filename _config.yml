@@ -50,7 +50,7 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "barboraklusackova@gmail.com"
-  github: https://github.com/kbarushkaa
+  github: kbarushkaa
 #  medium: yourname
 #  reddit: yourname
   linkedin: barboraklu
@@ -120,17 +120,17 @@ navbar-var-length: false
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#DC7F9B"
-navbar-text-col: "#2F2F2F"
-navbar-border-col: "#F7A1C4"
+navbar-col: "#CB9CF2"
+navbar-text-col: "#4A306D"
+navbar-border-col: "#4A306D"
 page-col: "#FFFFFF"
-text-col: "#2F2F2F"
-link-col: "#DC7F9B"
-hover-col: "#0085A1"
-footer-col: "#CDD3CE"
-footer-text-col: "#2F2F2F"
-footer-link-col: "#2F2F2F"
-footer-hover-col: "#F7A1C4"
+text-col: "#4A306D"
+link-col: "#DD1155"
+hover-col: "#DD1155"
+footer-col: "#FBFBF2"
+footer-text-col: "#FBFBF2"
+footer-link-col: "#FBFBF2"
+footer-hover-col: "#DD1155"
 
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
