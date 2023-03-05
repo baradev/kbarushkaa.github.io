@@ -20,7 +20,7 @@ author: Barbora Klusackova
 ###############################################
 
 navbar-links:
-  About Me: "Tohle jsem ja"
+  About Me: "aboutme"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
@@ -53,7 +53,7 @@ social-network-links:
   github: https://github.com/kbarushkaa
 #  medium: yourname
 #  reddit: yourname
-#  linkedin: daattali
+  linkedin: barboraklu
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -120,17 +120,17 @@ navbar-var-length: false
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#F535AA"
-navbar-text-col: "#FFFF00"
-navbar-border-col: "#DDDDDD"
+navbar-col: "#DC7F9B"
+navbar-text-col: "#2F2F2F"
+navbar-border-col: "#F7A1C4"
 page-col: "#FFFFFF"
-text-col: "#000000"
-link-col: "#008AFF"
+text-col: "#2F2F2F"
+link-col: "#DC7F9B"
 hover-col: "#0085A1"
-footer-col: "#EAEAEA"
-footer-text-col: "#777777"
-footer-link-col: "#404040"
-footer-hover-col: "#0085A1"
+footer-col: "#CDD3CE"
+footer-text-col: "#2F2F2F"
+footer-link-col: "#2F2F2F"
+footer-hover-col: "#F7A1C4"
 
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
