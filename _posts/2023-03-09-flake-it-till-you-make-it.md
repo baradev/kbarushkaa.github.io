@@ -20,6 +20,4 @@ Here are the rules of the game for people who are not famaliar with it.
 
 3. When you mess up, press any key to star again.
 
-Click here to play the game
-
 <a href="https://kbarushkaa.github.io/simon/">Click here for playing SIMON</a>
