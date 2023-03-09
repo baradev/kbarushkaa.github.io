@@ -1,6 +1,6 @@
 ---
 layout: post
-title: My hobbies website
+title: My Hobbies Website
 subtitle:
 cover-img: assets/img/myhobby.png
 thumbnail-img: assets/img/myhobby.png

@@ -8,7 +8,7 @@ share-img: assets/img/simongame.png
 tags: [project, javascript, html, css]
 ---
 
-Simon game!
+Simon Game!
 
 In this challenge, I apply my JavaScript, CSS and HTML knowledge to build a pattern game.
 

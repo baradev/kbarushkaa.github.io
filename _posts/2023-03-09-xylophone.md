@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Rainbow xylophone
+title: Rainbow Xylophone
 subtitle:
 cover-img: assets/img/xylophone.png
 thumbnail-img: assets/img/xylophone.png
