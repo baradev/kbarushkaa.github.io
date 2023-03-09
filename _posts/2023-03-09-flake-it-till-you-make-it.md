@@ -22,4 +22,4 @@ Here are the rules of the game for people who are not famaliar with it.
 
 Click here to play the game
 
-<a href="https://kbarushkaa.github.io/">Click here for playing SIMON</a>
+<a href="https://kbarushkaa.github.io/simon/">Click here for playing SIMON</a>
