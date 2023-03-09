@@ -5,12 +5,12 @@ subtitle:
 cover-img: assets/img/simongame.png
 thumbnail-img: assets/img/simongame.png
 share-img: assets/img/simongame.png
-tags: [project, javascript]
+tags: [project, javascript, html, css]
 ---
 
 Simon game!
 
-In this challenge from my software development bootcamp I apply my new knowledge about javascript, css and html to build a patern game.
+In this challenge from the Software development bootcamp I apply my knowledge about javascript, css and html to build a patern game.
 
 Here are the rules of the game for people who are not famaliar with it.
 
@@ -19,3 +19,7 @@ Here are the rules of the game for people who are not famaliar with it.
 2. Player needs to remember the collor patern an repeat it by pressing the colored buttons in the correct order.
 
 3. When you mess up, press any key to star again.
+
+Click here to play the game
+
+<a href="https://kbarushkaa.github.io/">Click here for playing SIMON</a>
