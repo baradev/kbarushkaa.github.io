@@ -14,4 +14,4 @@ Thanks to this project, I could implement my two passions together! Music and te
 
 To play, click on each colour or press a specific key.
 
-<a href="https://kbarushkaa.github.io/rainbow-xylophone/">>>Click here for make some music<<</a>
+<a href="https://kbarushkaa.github.io/rainbow-xylophone/">>> Click here for make some music <<</a>
