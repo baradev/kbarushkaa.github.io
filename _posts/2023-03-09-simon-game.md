@@ -20,4 +20,4 @@ Here are the game rules for people who are not familiar with them.
 
 3. When you mess it up, press any key to start again.
 
-<a href="https://kbarushkaa.github.io/simon/">>>Click here to play Simon Game<<</a>
+<a href="https://kbarushkaa.github.io/simon/">>> Click here to play Simon Game <<</a>
