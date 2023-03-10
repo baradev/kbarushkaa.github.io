@@ -2,10 +2,9 @@
 layout: post
 title: My Hobbies Website
 subtitle:
-cover-img: 
-cover-img: assets/img/myhobby.png
-thumbnail-img: assets/img/myhobby.png
-share-img: assets/img/myhobby.png
+cover-img: assets/img/website.png
+thumbnail-img: assets/img/website.png
+share-img: assets/img/website.png
 tags: [project, html, css]
 ---
 
