@@ -1,0 +1,4 @@
+Type: AWS::Connect::ApprovedOrigin
+Properties:
+  InstanceId: String
+  Origin: String
