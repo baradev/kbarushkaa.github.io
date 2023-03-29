@@ -21,7 +21,7 @@ author: Barbora Klusackova
 
 navbar-links:
   About Me: "aboutme"
-  Testing Projects:
+  Testing Projects: "testing"
   Dev Projects:
     - Rainbow Xylophone: "https://kbarushkaa.github.io/2023-03-09-xylophone/"
     - Simon Game: "https://kbarushkaa.github.io/2023-03-09-simon-game/"

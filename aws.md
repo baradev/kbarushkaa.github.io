@@ -4,4 +4,4 @@ title: AWS
 subtitle:
 ---
 
-Here will be my AWS projects
+Here will be my AWS projects.
