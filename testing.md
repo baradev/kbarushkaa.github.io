@@ -4,4 +4,4 @@ title: Testing Projects
 subtitle:
 ---
 
-Here will be my testing projects.
+Exciting Software Testing Projects coming soon!
