@@ -4,4 +4,4 @@ title: AWS
 subtitle:
 ---
 
-Here will be my AWS projects.
+I am working on my AWS Project right now! Stay tuned for an update. 
