@@ -26,7 +26,8 @@ navbar-links:
     - Rainbow Xylophone: "https://kbarushkaa.github.io/2023-03-09-xylophone/"
     - Simon Game: "https://kbarushkaa.github.io/2023-03-09-simon-game/"
     - My Hobbies Website: "https://kbarushkaa.github.io/2023-03-09-my-hobbies-website/"
-  AWS Projects: "aws"
+  AWS Projects:
+    - Amazon Connect Bootcamp: 
 
 
 ################
