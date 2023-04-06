@@ -3,7 +3,7 @@ layout: post
 title: Amazon Connect Bootcamp
 subtitle:
 cover-img:
-thumbnail-img: assets/img/connect diagram.png
+thumbnail-img: assets/img/connect-diagram.png
 share-img:
 tags: [project, AWS, Connect]
 ---
@@ -14,5 +14,5 @@ I am working on this project right now. Amazon Connect is just fascinating AWS s
 Here is the diagram of the project architecture. 
 
 
-<img src="assets/img/connect diagram.png" alt="Connect Diagram" width="500" height="600">
+<img src="/Users/barbora/Documents/GitHub/kbarushkaa.github.io/assets/img/connect-diagram.png" alt="Connect Diagram" width="500" height="600">
 
