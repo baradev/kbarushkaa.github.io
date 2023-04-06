@@ -4,7 +4,7 @@ title: Amazon Connect Bootcamp
 subtitle:
 cover-img: assets/img/connect logo.png
 thumbnail-img: assets/img/connect logo.png
-share-img:
+share-img: assets/img/connect logo.png
 tags: [project, AWS, Connect]
 ---
 
