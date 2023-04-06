@@ -2,8 +2,8 @@
 layout: post
 title: Amazon Connect Bootcamp
 subtitle:
-cover-img:
-thumbnail-img: assets/img/connect-diagram.png
+cover-img: assets/img/connect logo.png
+thumbnail-img: assets/img/connect logo.png
 share-img:
 tags: [project, AWS, Connect]
 ---
