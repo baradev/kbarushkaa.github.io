@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Testing Demo Banking Application
+title: Testing Demo Bank Application
 subtitle:
 cover-img: assets/img/jira-logo.png
 thumbnail-img: assets/img/jira-logo.png
