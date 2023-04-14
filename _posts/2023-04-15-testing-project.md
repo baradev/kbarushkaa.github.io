@@ -8,9 +8,7 @@ share-img:
 tags: [project, testing, JIRA, bugs]
 ---
 
-Demo Banking Application
-
-I have been testing Demo Bank Application. 
+My testing project involved the assessment of the Demo Bank Application. Initially, the documentation provided was poorly written and lacked specificity. I found numerous bugs. However, through effective collaboration with the developers, we were able to improve the application's appearance, enhance the documentation quality, and successfully resolve the bugs. As a result of these efforts, we reached a level of product quality that enabled us to deploy Version 4 of the application.
 
 Project progress step by step: 
 
@@ -26,6 +24,5 @@ Project progress step by step:
 11. Version 4 of the Application released
 12. Retesting failed System Test cases 
 13. Project is closed, Application came alive
-
 
 
