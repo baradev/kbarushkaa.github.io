@@ -1,0 +1,31 @@
+---
+layout: post
+title: Testing Demo Banking Application
+subtitle:
+cover-img:
+thumbnail-img: 
+share-img:
+tags: [project, testing, JIRA, bugs]
+---
+
+Demo Banking Application
+
+I have been testing Demo Bank Application. 
+
+Project progress step by step: 
+
+1. Reading Software Requirement Specification (SRS)
+2. Writing & Executing Unit Test Cases 
+4. Writing & Executing Integration Test Cases
+5. Bug tracking, JIRA
+6. Version 2 of the Application released
+7. Retesting failed Unit and Integration Test Cases, updating Bug reports
+8. Version 3 of the Application released
+9. Retesting failed Unit and Integration Test Cases, updating Bug reports
+10. Executing System Test Plan, Bug tracking 
+11. Version 4 of the Application released
+12. Retesting failed System Test cases 
+13. Project is closed, Application came alive
+
+
+
