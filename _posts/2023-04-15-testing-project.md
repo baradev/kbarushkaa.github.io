@@ -26,3 +26,6 @@ Project progress step by step:
 13. Project is closed, Application came alive
 
 
+<img src="assets/img/jira-screenshot.png" alt="Jira-project-screenshot">
+
+This project was created for training purposes, and I have permission to share its details.
