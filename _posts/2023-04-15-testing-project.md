@@ -25,6 +25,6 @@ Project progress step by step:
 11. Retesting failed System Test cases 
 12. Project is closed, Application came alive
 
-<img src="assets/img/jira-screenshot.png" alt="Jira-project-screenshot">
+<img src="/assets/img/jira-screenshot.png" alt="Jira-project-screenshot">
 
 This project was created for training purposes, and I have permission to share its details.
