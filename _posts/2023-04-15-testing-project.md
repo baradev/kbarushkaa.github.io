@@ -2,7 +2,7 @@
 layout: post
 title: Testing Demo Bank Application
 subtitle:
-cover-img: assets/img/jira-logo.png
+cover-img: 
 thumbnail-img: assets/img/jira-logo.png
 share-img:
 tags: [project, testing, JIRA, bugs]
