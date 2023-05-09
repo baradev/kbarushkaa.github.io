@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Testing Demo Bank Application
+title: Testing Bank Application
 subtitle:
 cover-img: 
 thumbnail-img: assets/img/jira-logo.png
@@ -8,9 +8,8 @@ share-img:
 tags: [project, testing, JIRA, bugs]
 ---
 
-My testing project involved the assessment of the Demo Bank Application. Initially, the documentation provided was poorly written and lacked specificity. I found numerous bugs. However, through effective collaboration with the developers, we were able to improve the application's appearance, enhance the documentation quality, and successfully resolve the bugs. As a result of these efforts, we reached a level of product quality that enabled us to deploy Version 4 of the application.
 
-Project progress step by step: 
+Project timeline:
 
 1. Reading Software Requirement Specification (SRS)
 2. Creating & Executing Unit Test Cases 
@@ -24,6 +23,7 @@ Project progress step by step:
 10. Version 4 of the Application released
 11. Retesting failed System Test cases 
 12. Project is closed, Application came alive
+
 
 <a href="https://docs.google.com/spreadsheets/d/1xPSO7KLf83dg6JWBEmTcLxiTffCjTx7YlufagtHCRA4/edit?usp=sharing">>> Check the Unit Test Cases Here <<</a>
 
