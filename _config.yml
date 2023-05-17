@@ -23,13 +23,15 @@ navbar-links:
   About Me: "aboutme"
   Testing Projects: 
     - Bank Application: "https://barbora.cloud/2023-04-15-testing-project/"
-    - JMeter: 
   Dev Projects:
     - Rainbow Xylophone: "https://kbarushkaa.github.io/2023-03-09-xylophone/"
     - Simon Game: "https://kbarushkaa.github.io/2023-03-09-simon-game/"
     - My Hobbies Website: "https://kbarushkaa.github.io/2023-03-09-my-hobbies-website/"
   AWS Projects:
     - Amazon Connect Bootcamp: "https://barbora.cloud/2023-04-06-amazon-connect-bootcamp/"
+  Events & Meetups:
+    - AWS Tools and Programming: 
+
 
 
 ################
