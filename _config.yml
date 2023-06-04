@@ -21,8 +21,6 @@ author: Barbora Klusackova
 
 navbar-links:
   About Me: "aboutme"
-  Testing Projects: 
-    - Bank Application: "https://barbora.cloud/2023-04-15-testing-project/"
   Dev Projects:
     - Rainbow Xylophone: "https://kbarushkaa.github.io/2023-03-09-xylophone/"
     - Simon Game: "https://kbarushkaa.github.io/2023-03-09-simon-game/"
