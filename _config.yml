@@ -24,7 +24,7 @@ navbar-links:
   Dev Projects:
     - Rainbow Xylophone: "https://baradev.github.io/rainbow-xylophone/"
     - Simon Game: "https://baradev.github.io/simon/"
-    - My Hobbies Website: "https://baradev.github.io/2023-03-09-my-hobbies-website/"
+    - About Me Website: "https://baradev.github.io/StaticWebsite2023/"
     - NextJS Todo App: "https://nextjs-todo-kbarushkaa.vercel.app/"
     - NextJS Blog App: "https://barbora-klu-blogr-nextjs-prisma.vercel.app"
   AWS Projects:
@@ -84,13 +84,6 @@ rss-description:
 ###########################
 # --- General options --- #
 ###########################
-
-# Select which social network share links to show in posts
-share-links-active:
-  twitter: true
-  facebook: true
-  linkedin: true
-  vk: false
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
