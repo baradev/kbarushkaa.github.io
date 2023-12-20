@@ -23,7 +23,7 @@ navbar-links:
   About Me: "aboutme"
   Dev Projects:
     - Rainbow Xylophone: "https://baradev.github.io/rainbow-xylophone/"
-    - Simon Game: "https://baradev.github.io/2023-03-09-simon-game/"
+    - Simon Game: "https://baradev.github.io/simon/"
     - My Hobbies Website: "https://baradev.github.io/2023-03-09-my-hobbies-website/"
     - NextJS Todo App: "https://nextjs-todo-kbarushkaa.vercel.app/"
     - NextJS Blog App: "https://barbora-klu-blogr-nextjs-prisma.vercel.app"
