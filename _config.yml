@@ -22,9 +22,9 @@ author: Barbora Klusackova
 navbar-links:
   About Me: "aboutme"
   Dev Projects:
-    - Rainbow Xylophone: "https://kbarushkaa.github.io/2023-03-09-xylophone/"
-    - Simon Game: "https://kbarushkaa.github.io/2023-03-09-simon-game/"
-    - My Hobbies Website: "https://kbarushkaa.github.io/2023-03-09-my-hobbies-website/"
+    - Rainbow Xylophone: "https://baradev.github.io/rainbow-xylophone/"
+    - Simon Game: "https://baradev.github.io/2023-03-09-simon-game/"
+    - My Hobbies Website: "https://baradev.github.io/2023-03-09-my-hobbies-website/"
     - NextJS Todo App: "https://nextjs-todo-kbarushkaa.vercel.app/"
     - NextJS Blog App: "https://barbora-klu-blogr-nextjs-prisma.vercel.app"
   AWS Projects:
@@ -55,7 +55,7 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "barboraklusackova@gmail.com"
-  github: kbarushkaa
+  github: baradev
   #  medium: yourname
   #  reddit: yourname
   linkedin: barboraklu
