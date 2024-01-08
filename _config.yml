@@ -22,6 +22,7 @@ author: Barbora Klusackova
 navbar-links:
   About Me: "aboutme"
   Dev Projects:
+    - Static Website: https://baradev.github.io/
     - Rainbow Xylophone: "https://baradev.github.io/rainbow-xylophone/"
     - Simon Game: "https://baradev.github.io/simon/"
     - About Me Website: "https://baradev.github.io/StaticWebsite2023/"
@@ -29,8 +30,6 @@ navbar-links:
     - NextJS Blog App: "https://barbora-klu-blogr-nextjs-prisma.vercel.app"
   AWS Projects:
     - Amazon Connect Bootcamp: "https://barbora.cloud/2023-04-06-amazon-connect-bootcamp/"
-
-
 
 ################
 # --- Logo --- #
