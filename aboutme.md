@@ -4,9 +4,10 @@ title: About me
 subtitle:
 ---
 
-I used to be a music teacher, but then motherhood came and changed everything!
+I am a former teacher who, during motherhood, discovered a love for coding. When the pandemic struck, like many others, my life was deeply impacted. I found myself dedicated full-time to my children, and while I adore them, I couldn't shake off the frustration.
 
-While focusing on raising my children, I discovered a new passion for coding.  
+To change my habits and prioritize my mental health and overall fitness, I embarked on a transformative journey. That's when the idea struck me—I wanted to create my own habit tracker not on paper but digital! Then I realised coding became my sanctuary, a time where I could be alone, studying and coding, an almost meditative experience.
 
-I master quickly learning new skills, such as HTML, CSS, JavaScript, React and NextJS. I’m also passionate about the cloud and now I am 2x AWS Certified. 
+Since then, coding has become a daily ritual for me, with the goal of learning something new about programming every day.
 
+And now here I stand, ready to start a new chapter as a software developer.
