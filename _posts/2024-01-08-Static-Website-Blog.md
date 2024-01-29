@@ -5,8 +5,7 @@ subtitle:
 cover-img:
 thumbnail-img: assets/img/dev-blog.png
 share-img:
-tags: [flexbox, bootstrap, html, css]
-link:
+tags:
 ---
 
 Demonstrated skills: HTML, CSS, Flexbox, Bootstrap, Responsive Design
