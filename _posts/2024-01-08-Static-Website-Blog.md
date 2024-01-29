@@ -3,7 +3,7 @@ layout: post
 title: Static Website - Blog
 subtitle:
 cover-img:
-thumbnail-img: assets/img/dev-blog.png
+thumbnail-img: assets/img/static-web.png
 share-img:
 tags:
 ---
