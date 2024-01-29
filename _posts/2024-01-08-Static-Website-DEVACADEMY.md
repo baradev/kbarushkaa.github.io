@@ -1,9 +1,9 @@
 ---
 layout: post
-title: <a href="http://baradev.github.io" target="_blank">>>Explore here<<</a>
+title: Static website - Blog
 subtitle:
 cover-img:
-thumbnail-img:
+thumbnail-img: assets/img/dev-blog.png
 share-img:
 tags: [flexbox, bootstrap, html, css]
 link:
