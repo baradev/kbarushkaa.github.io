@@ -6,8 +6,7 @@ cover-img:
 thumbnail-img:
 share-img:
 tags: [flexbox, bootstrap, html, css]
+link: <a href="http://baradev.github.io" target="_blank">>>Explore here<<</a>
 ---
-
-<a href="http://baradev.github.io" target="_blank">>>Explore here<<</a>
 
 Demonstrated skills: HTML, CSS, Flex-box, Bootstrap
