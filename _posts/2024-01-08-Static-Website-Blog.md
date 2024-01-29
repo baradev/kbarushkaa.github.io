@@ -3,7 +3,7 @@ layout: post
 title: Static Website - Blog
 subtitle:
 cover-img:
-thumbnail-img: assets/img/blog-pic.png
+thumbnail-img: assets/img/blog-thumbnail.JPG
 share-img:
 tags:
 ---
@@ -14,4 +14,4 @@ Demonstrated skills: HTML, CSS, Flexbox, Bootstrap, Responsive Design
 
 This static website serves as a blog where I document my reflections on various topics, including technology and self-development. It was an integral part of my learning journey at DevAcademy Aotearoa.
 
-<img src="assets/img/screen-shot-staticw.png" alt="Connect Diagram">
+<img src="/assets/img/screen-shot-staticw.png" alt="Static Website">
