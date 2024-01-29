@@ -1,6 +1,6 @@
 ---
 layout: post
-title: DevAcademy Journey - Blog
+title: Static website - Blog
 subtitle:
 cover-img:
 thumbnail-img:
@@ -8,8 +8,6 @@ share-img:
 tags: [flexbox, bootstrap, html, css]
 ---
 
-Simple static website - Blog
+<a href="http://baradev.github.io" target="_blank">>>Explore here<<</a>
 
-I've created a basic static website using Bootstrap, Flexbox, CSS, and HTML. On the site, you can explore my DevAcademy Blog.
-
-<a href="http://baradev.github.io" target="_blank">>> Click here <<</a>
+Demonstrated skills: HTML, CSS, Flex-box, Bootstrap
